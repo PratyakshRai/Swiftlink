@@ -1,0 +1,1 @@
+{"name":"swiftlink-server","private":true,"type":"module","scripts":{"dev":"node --watch index.js","start":"node index.js","test":"node --test"},"dependencies":{"bcryptjs":"^2.4.3","connect-redis":"^8.0.2","express":"^4.21.2","express-session":"^1.18.1","helmet":"^8.0.0","mongoose":"^8.9.5","redis":"^4.7.0","ua-parser-js":"^1.0.40"}}
